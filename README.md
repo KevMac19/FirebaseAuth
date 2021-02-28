@@ -1,0 +1,2 @@
+# FirebaseAuth
+Simple Firebase authentication
